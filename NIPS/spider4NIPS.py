@@ -1,7 +1,9 @@
 import urllib
 import re
+from operator import itemgetter
 
-sourceHtml = "https://papers.nips.cc/"
+sourceUrl = "https://papers.nips.cc/"
+authorRecord = {}
 
 
 def getHtml(url):
@@ -10,18 +12,30 @@ def getHtml(url):
     return html
 
 
-def getlink(html):
+def getLink(html):
     reg = r'<li><a href="/book.+?">'
     linkByYear = re.compile(reg)
     for link in linkByYear.findall(html):
         link = link.split("\"")[1]
-        link = sourceHtml + link
-        print link
+        link = sourceUrl + link
+        print "Fetching " + link + "......"
+        getAuthor(link)
+
+
+def getAuthor(url):
+    html = getHtml(url)
+    reg = r'class="author">.+?</a>,'
+    authors = re.compile(reg)
+    for author in authors.findall(html):
+        author = author.split('<')[0].split('>')[1]
+        authorRecord[author] = authorRecord.get(author, 0) + 1
 
 
 def main():
-    html = getHtml(sourceHtml)
-    getlink(html)
+    html = getHtml(sourceUrl)
+    getLink(html)
+    authorRecordSortedbyTimes = sorted(authorRecord.items(), key=itemgetter(1))
+    print authorRecordSortedbyTimes
 
 
 if __name__ == '__main__':
