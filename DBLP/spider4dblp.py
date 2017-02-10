@@ -3,7 +3,7 @@ import json
 from operator import itemgetter
 
 sourceUrl = "http://dblp.uni-trier.de/search/publ/api?"
-conference = "AAAI"
+conference = "IJCAI"
 years = range(2012, 2017)
 authorRecord = {}
 
@@ -25,7 +25,11 @@ def getLink():
 def getAuthor(url):
     html = getHtml(url)
     htmlJson = json.loads(html)
-    hits = htmlJson["result"]["hits"]["hit"]
+    hits = []
+    try:
+        hits = htmlJson["result"]["hits"]["hit"]
+    except KeyError:
+        pass
     print hits.__len__()
     for hit in hits:
         authors = []
