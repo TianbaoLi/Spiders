@@ -34,6 +34,8 @@ def getAuthor(url):
         except KeyError:
             pass
         for author in authors:
+            if len(author) < 4:
+                continue
             authorRecord[author] = authorRecord.get(author, 0) + 1
 
 
