@@ -1,10 +1,9 @@
 import urllib
-import re
 import json
 from operator import itemgetter
 
 sourceUrl = "http://dblp.uni-trier.de/search/publ/api?"
-conference = "NIPS"
+conference = "AAAI"
 years = range(2012, 2017)
 authorRecord = {}
 
@@ -29,6 +28,7 @@ def getAuthor(url):
     hits = htmlJson["result"]["hits"]["hit"]
     print hits.__len__()
     for hit in hits:
+        authors = []
         try:
             authors = hit["info"]["authors"]["author"]
         except KeyError:
