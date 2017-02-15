@@ -22,4 +22,5 @@ for name in names:
     counter += 1
     print "\tNo." + str(counter) + '/' + str(length)
 citationSorted = sorted(citation.items(), key=itemgetter(1), reverse=True)
-print citationSorted
+for cit in citationSorted:
+    print cit
