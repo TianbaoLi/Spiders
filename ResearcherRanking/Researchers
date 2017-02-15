@@ -1,105 +1,3 @@
-Rong Jin
-Alexander J. Smola
-Ruslan Salakhutdinov
-Milind Tambe
-Vincent Conitzer
-Andrew Y. Ng
-Fan, Wei
-Stuart Russell
-Joel Chestnutt
-Isabelle Guyon
-Peter Stone
-Daphne Koller
-Rakesh Agrawal
-Toby Walsh
-Ye, Jieping
-Jason Weston
-Vladimir Vapnik
-Yann LeCun
-Craig Boutilier
-Fei-Fei Li
-Geoffrey E. Hinton
-Jeffery Dean
-Jia Li
-Remi Munos
-Gabriel Nelson
-Hang Li
-Wang, Fei
-Shie Mannor
-Christopher M. Bishop
-Prateek Jain
-Robert Schapire
-Ming Zhou
-Eric P. Xing
-Jure Leskovec
-Stephen P. Boyd
-Ariel D. Procaccia
-Zoubin Ghahramani
-Howard Michel
-Sebastian Thrun
-Inderjit S. Dhillon
-David Lopez Mateos
-Anil K. Jain
-Ba Zhang
-Bernhard Nebel
-Bernhard Scholkopf
-Changshui Zhang
-Chen, Enhong
-Chih-Jen Lin
-Csaba Szepesvari
-Cui, Peng
-Dacheng Tao
-David M. Blei
-Faloutsos, Christos
-Feiping Nie
-Gao, Jing
-Han Liu
-Han, Jiawei
-Hanghang Tong
-Heng Huang
-Huan Xu
-J. D. Lafferty
-Jeffrey Ullman
-Jingrui He
-Jon Kleinberg
-Jonathan W. Pillow
-Judea Pearl
-Jun Zhu
-Kalyanmoy Deb
-Kewen Wang
-Lawrence Carin
-Le Song
-Lijun Zhang
-Lotfi A. Zadeh
-Maosong Sun
-Michael I. Jordan
-Nicholas R. Jennings
-Pei, Jian 
-Peter L. Bartlett
-Pradeep Ravikumar
-Qiang Yang
-Ramakrishnan, Naren
-Robert Tibshirani
-Sarit Kraus
-Seoung Bum Kim
-Shaoping Ma
-Tang Jie
-Terrence Sejnowski
-Tommi S. Jaakkola
-Trevor Hastie
-Tuomas Sandholm
-Vipin Kumar
-Wang, Jun
-Wei Wang
-Xiaojin Zhu
-Xiong, Hui
-Yee Whye Teh
-Yi Yang
-Yoshua Bengio
-Yu, Philip S.
-Yun Fu
-Zhi-Hua Zhou
-Aaron Q Li
 Adam Cheyer
 Alan Fern
 Alekh Agarwal
@@ -112,15 +10,12 @@ Amr Ahmed
 Ananda Suresh
 Anders Jonsson
 Andreas Herzig
-Andreas Krause
 Anshumali Shrivastava
-Arindam Banerjee
 Asu Ozdaglar
 Aviv Tamar
 Ayanna Howard
 Balaji Krishnapuram
 Barbara Grosz
-Bart Selman
 Bin Yu
 Bryan Hooi
 Carlos Guestrin
@@ -128,7 +23,6 @@ Chandra Chekuri
 Chengqi Zhang
 Chinmay Hegde
 Chris J.C. Burges
-Christof Koch
 Claire Monteleoni
 Claire Tomlin
 Claudia Perlich
@@ -165,7 +59,6 @@ Greg Papadopoulos
 Haim Sompolinsky
 Haipeng Luo
 Hal Varian
-Hector Levesque
 Hila Nachliely
 Hongyuan Zha
 Hugh Durrant-Whyte
@@ -185,7 +78,6 @@ Joe Hellerstein
 Joelle Pineau
 John Langford
 Jonathan Gratch
-Joshua Tenenbaum
 Katrina Ligett
 Kevin Leyton-Brown
 Kijung Shin
@@ -204,10 +96,8 @@ Manuel Gomez-Rodriguez
 Manuela Veloso
 Marc Raibert
 Marti Hearst
-Masashi Sugiyama
 Max Welling
 Meinolf Sellmann
-Michael Bowling
 Michael Kearns
 Michael Littman
 Michael Wooldridge
@@ -222,17 +112,12 @@ Neil Shah
 Nestor Rychtyckyj and Howie
 Nick Bostrom
 Oren Etzioni
-Padhraic Smyth
 Pascal Van Hentenryck
 Paula Matuszek
-Peter Dayan
-Ping Li
 Piotr Indyk
 Prasad Tadepalli
 Qiaozhu Mei
 Ramasamy Uthurusamy
-Ravi Kumar
-Rayid Ghani
 Raymond J. Mooney
 Reid G. Smith
 Renée J. Miller
@@ -254,10 +139,8 @@ Satyen Kale
 Sendhil Mullainathan
 Sergey Levine
 Sergio Jimenez
-Shai Shalev-Shwartz
 Sheila Mcllraith
 Shipeng Yu
-Shlomo Zilberstein
 Silvio Lattanzi
 Sofus Macskassy
 Stan Matwin
@@ -265,8 +148,6 @@ Stefanie Jegelka
 Stephen J. Wright
 Steve Young
 Steven Phillips
-Stuart Russell
-Subbarao Kambhampati
 Subhaneil Lahiri
 Sujith Ravi
 Surya Ganguli
