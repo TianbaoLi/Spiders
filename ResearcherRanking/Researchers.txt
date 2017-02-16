@@ -11,7 +11,7 @@ Ananda Suresh
 Anders Jonsson
 Andreas Herzig
 Anshumali Shrivastava
-Asu Ozdaglar
+Asuman Ozdaglar
 Aviv Tamar
 Ayanna Howard
 Balaji Krishnapuram
@@ -42,12 +42,12 @@ David W. Aha
 Deborah L. McGuinness
 Demis Hassabis
 Dmitri Dolgov
-Drew Bagnell
+J. Andrew Bagnell
 Drew Purves
 Elias Bareinboim
 Eric Horvitz
 Eric Schadt
-Erik Brynjolfsson via Skype
+Erik Brynjolfsson
 Fahiem Bacchus
 Flavio Chierichetti
 Florian Pommerening
@@ -82,7 +82,7 @@ Katrina Ligett
 Kevin Leyton-Brown
 Kijung Shin
 Kristen Grauman
-Kristin P. Bennett and the TB-Insight Team
+Kristin P. Bennett
 Kyle Cranmer 
 Larry Birnbaum
 Lawrence Hunter
@@ -109,7 +109,7 @@ Nando de Freitas
 Naveen Rao
 Neil D Lawrence
 Neil Shah
-Nestor Rychtyckyj and Howie
+Nestor Rychtyckyj
 Nick Bostrom
 Oren Etzioni
 Pascal Van Hentenryck
@@ -118,9 +118,9 @@ Piotr Indyk
 Prasad Tadepalli
 Qiaozhu Mei
 Ramasamy Uthurusamy
-Raymond J. Mooney
+Raymond Mooney
 Reid G. Smith
-Renée J. Miller
+Renee Miller
 Richard Wilkinson
 Rishabh Iyer
 Rob Fergus
@@ -145,7 +145,7 @@ Silvio Lattanzi
 Sofus Macskassy
 Stan Matwin
 Stefanie Jegelka
-Stephen J. Wright
+Stephen Wright
 Steve Young
 Steven Phillips
 Subhaneil Lahiri
@@ -155,7 +155,7 @@ Susan Athey
 Susan Holmes
 Susan Murphy
 Thad Starner
-Thomas G. Dietterich
+Thomas Dietterich
 Thomas Richardson
 Tony Jebara
 Ugo Pagallo
@@ -171,4 +171,4 @@ Wolfram Burgard
 Xuanlong Nguyen
 Yi Wu
 Zhaoshi Meng
-Jack L. Gallant
+Jack Gallant
