@@ -1,6 +1,6 @@
 import scholarly
 
-fileName = "Authors"
+fileName = "Researchers"
 nameIn = open(fileName + ".txt", 'r')
 citationOut = open(fileName + ".out", 'w')
 names = []
@@ -38,4 +38,5 @@ for name in names:
         mark = (1.0 * citation[name] / maxCitation + 1.0 * hIndex[name] / maxHIndex) / 2
         citationOut.write("%s\t%d\t%d\t%lf\n" % (name, citation[name], hIndex[name], mark))
     except KeyError:
+        citationOut.write("%s\n" % name)
         pass
