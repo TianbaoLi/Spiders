@@ -1,1 +1,148 @@
-Rong Jin	15902	65
+Rong Jin	15902	65	0.231104
+Alex Smola	74452	94	0.440776
+Christof Koch	83380	123	0.547681
+Ruslan Salakhutdinov	19942	46	0.181544
+Milind Tambe	19111	69	0.249945
+Vincent Conitzer	7436	47	0.158693
+Andrew Y. Ng	73139	104	0.468545
+Fan, Wei	3026	28	0.091633
+Stuart Russell	54581	65	0.311209
+Joel Chestnutt	1991	21	0.068148
+Isabelle Guyon	33147	50	0.221087
+Peter Stone	17552	63	0.228424
+Daphne Koller	55306	116	0.468198
+Rakesh Agrawal	103689	97	0.510473
+Haris Aziz	981	20	0.063007
+Toby Walsh	15938	61	0.218983
+Ye, Jieping	10191	55	0.188789
+Bonchi, Francesco	6170	39	0.131681
+Jason Weston	32458	66	0.268440
+vapnik	183463	116	0.733612
+Yann LeCun	44669	89	0.363851
+Craig Boutilier	16786	61	0.220740
+Fei-Fei Li	29091	61	0.246223
+Geoffrey Hinton	162361	128	0.726495
+Jeffery Dean	86374	145	0.620955
+Jia Li	78424	110	0.497783
+Remi Munos	5126	35	0.117323
+Hang Li	12044	48	0.171285
+Aggarwal, Charu C. 	30013	79	0.303011
+Wang, Fei	30470	61	0.249079
+Shie Mannor	7546	41	0.140628
+Agarwal, Deepak	2011	21	0.068189
+Daniel Weld	25576	79	0.293822
+Christopher M. Bishop	67714	53	0.301822
+Prateek Jain	4202	30	0.100166
+Robert Schapire	65626	68	0.343229
+Ming Zhou	19477	64	0.235459
+Eric Xing	15810	60	0.215670
+Jure Leskovec	29292	68	0.267981
+Stephen Boyd	114365	100	0.541729
+Ariel Procaccia	3797	36	0.117620
+Dan Roth	16598	62	0.223399
+Ryan P. Adams	3068	29	0.094768
+Zoubin Ghahramani	34943	78	0.310172
+Howard Michel	7995	37	0.129363
+Sebastian Thrun	76438	129	0.551597
+Inderjit S. Dhillon	21242	65	0.242163
+David Lopez Mateos	64993	108	0.463869
+Dalessandro, Brian	456	12	0.037530
+Alessandro Cimatti	14444	51	0.185401
+Amos Azaria	370	11	0.034303
+Andreas Krause	10608	50	0.174408
+Anil K. Jain	157792	164	0.826789
+Arindam Banerjee	10699	37	0.134963
+Ba Zhang	76	3	0.009304
+Bart Selman	23838	66	0.250588
+Bernhard Nebel	12211	53	0.186874
+Bernhard Scholkopf	96263	112	0.540825
+Bo An	40069	64	0.278105
+Boi Faltings	10119	51	0.176444
+Carsten Lutz	8604	51	0.173307
+Changshui Zhang	29589	75	0.289938
+Chih-Jen Lin	66888	56	0.309257
+Chunyan Miao	3686	31	0.102146
+Csaba Szepesvari	8042	40	0.138606
+Cui, Peng	353	10	0.031219
+Dacheng Tao	21822	76	0.276901
+David Blei	42862	59	0.268646
+Davidson, Ian	4849	35	0.116750
+Edith Elkind	2636	29	0.093874
+Faloutsos, Christos	65141	110	0.470274
+Feiping Nie	5933	43	0.143385
+Francis Bach	23992	68	0.257005
+Frank Wolter	8913	53	0.180044
+Gao, Jing	25215	54	0.216855
+Ghani, Rayid	3094	23	0.076530
+Gionis, Aristides	11811	45	0.161656
+Giuseppe De Giacomo	16313	66	0.235004
+Han Liu	27936	62	0.246880
+Han, Jiawei	128552	144	0.705257
+Hanghang Tong	5019	36	0.120151
+Heng Huang	8603	31	0.112329
+Henry Kautz	25868	72	0.273085
+Huan Xu	34348	78	0.308940
+Jeffrey Ullman	112037	106	0.555201
+Jerome Lang	9522	51	0.175208
+Jingrui He	3170	19	0.064492
+John Laird	13742	48	0.174801
+Jon Kleinberg	61243	92	0.407323
+Jonathan Pillow	2923	22	0.073127
+Jose Miguel Hernandez-Lobato	562	15	0.046896
+Joshua B. Tenenbaum	31046	68	0.271614
+Judea Pearl	73575	85	0.411521
+Jun Zhu	30995	77	0.298947
+Kalyanmoy Deb	97060	101	0.508939
+Kenneth D. Forbus	15871	54	0.197503
+Keogh, Eamonn 	24909	73	0.274148
+Kewen Wang	31825	68	0.273227
+Kilian Weinberger	7627	37	0.128600
+Klaus-Robert Muller	46138	90	0.369943
+Lawrence Carin	16065	62	0.222295
+Le Song	4034	35	0.115062
+Lijun Zhang	33024	74	0.294003
+Liu, Bing 	37025	75	0.305338
+Liu, Huan 	32273	78	0.304643
+Lotfi A. Zadeh	184176	105	0.701552
+Maosong Sun	4456	34	0.112887
+Masashi Sugiyama	7671	43	0.146984
+Michael Mozer	9578	48	0.166178
+Michael Bowling	5186	40	0.132691
+Michael I. Jordan	112558	133	0.638597
+Nick Jennings	68219	109	0.473599
+Ohad Shamir	2547	30	0.096738
+Pei, Jian 	66710	73	0.360718
+Peter Bartlett	21721	54	0.209619
+Pierre Marquis	352	9	0.028168
+Ping Li	46440	87	0.361422
+Pradeep Ravikumar	6466	29	0.101806
+Pradeep Varakantham	1662	20	0.064418
+Provost, Foster 	16197	50	0.185983
+Qiang Yang	76759	113	0.503481
+Ramakrishnan, Naren	4735	37	0.122611
+Richard E. Korf	10446	50	0.174073
+Rina Dechter	16971	54	0.199781
+Robert Tibshirani	241428	135	0.911585
+Sarit Kraus	17361	62	0.224979
+Seoung Bum Kim	85246	115	0.527155
+Shai Shalev-Shwartz	8253	40	0.139043
+Shlomo Zilberstein	8983	47	0.161897
+Smyth, Padhraic 	39778	71	0.298844
+Subbarao Kambhampati	8092	46	0.157003
+Tang Jie	7954	46	0.156717
+Terrence Sejnowski	103874	139	0.638905
+Thomas Eiter	15273	61	0.217606
+Thomas L. Griffiths	23160	64	0.243087
+Trevor Hastie	140032	106	0.613179
+Tuomas Sandholm	19417	72	0.259725
+Vipin Kumar	74210	103	0.467714
+Wang, Jun	64482	76	0.365250
+Wei Wang	108915	129	0.618857
+Xiaojin Zhu	15658	44	0.166574
+Xiong, Hui	6838	42	0.142210
+Yee Whye Teh	14710	42	0.158513
+Yi Yang	39117	71	0.297475
+Yoshua Bengio	58030	91	0.397620
+Yu, Philip S.	80483	132	0.569120
+Yun Fu	6032	39	0.131395
+Zhi-Hua Zhou	25572	78	0.290765
