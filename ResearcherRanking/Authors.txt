@@ -1,5 +1,5 @@
 Rong Jin
-Alexander J. Smola
+Alex Smola
 Christof Koch
 Ruslan Salakhutdinov
 Milind Tambe
@@ -17,29 +17,28 @@ Toby Walsh
 Ye, Jieping
 Bonchi, Francesco
 Jason Weston
-Vladimir Vapnik
+vapnik
 Yann LeCun
 Craig Boutilier
 Fei-Fei Li
-Geoffrey E. Hinton
+Geoffrey Hinton
 Jeffery Dean
 Jia Li
 Remi Munos
-Gabriel Nelson
 Hang Li
 Aggarwal, Charu C. 
 Wang, Fei
 Shie Mannor
 Agarwal, Deepak
-Daniel S. Weld
+Daniel Weld
 Christopher M. Bishop
 Prateek Jain
 Robert Schapire
 Ming Zhou
-Eric P. Xing
+Eric Xing
 Jure Leskovec
-Stephen P. Boyd
-Ariel D. Procaccia
+Stephen Boyd
+Ariel Procaccia
 Dan Roth
 Ryan P. Adams
 Jeff G. Schneider
@@ -69,12 +68,12 @@ Chunyan Miao
 Csaba Szepesvari
 Cui, Peng
 Dacheng Tao
-David M. Blei
+David Blei
 Davidson, Ian
 Edith Elkind
 Faloutsos, Christos
 Feiping Nie
-Francis R. Bach
+Francis Bach
 Frank Wolter
 Gao, Jing
 Ghani, Rayid
@@ -85,15 +84,15 @@ Han, Jiawei
 Hanghang Tong
 Hector J. Levesque
 Heng Huang
-Henry A. Kautz
+Henry Kautz
 Huan Xu
 J. D. Lafferty
 Jeffrey Ullman
 Jerome Lang
 Jingrui He
-John E. Laird
+John Laird
 Jon Kleinberg
-Jonathan W. Pillow
+Jonathan Pillow
 Jose Miguel Hernandez-Lobato
 Joshua B. Tenenbaum
 Judea Pearl
@@ -102,7 +101,7 @@ Kalyanmoy Deb
 Kenneth D. Forbus
 Keogh, Eamonn 
 Kewen Wang
-Kilian Q. Weinberger
+Kilian Weinberger
 Klaus-Robert Muller
 Lawrence Carin
 Le Song
@@ -112,14 +111,14 @@ Liu, Huan 
 Lotfi A. Zadeh
 Maosong Sun
 Masashi Sugiyama
-Michael C. Mozer
-Michael H. Bowling
+Michael Mozer
+Michael Bowling
 Michael I. Jordan
-Nicholas R. Jennings
+Nick Jennings
 Ohad Shamir
 Pei, Jian 
 Peter Dayan
-Peter L. Bartlett
+Peter Bartlett
 Pierre Marquis
 Ping Li
 Pradeep Ravikumar
