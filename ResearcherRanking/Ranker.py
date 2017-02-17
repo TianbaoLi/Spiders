@@ -11,12 +11,12 @@ citation = {}
 citation5year = {}
 hIndex = {}
 hIndex5year = {}
-paper = {}
+#paper = {}
 maxCitation = 0
 maxCitation5year = 0
 maxHIndex = 0
 maxHIndex5year = 0
-maxPaper = 0
+#maxPaper = 0
 sourceUrl = "http://dblp.uni-trier.de/search/publ/api?q="
 
 
@@ -26,15 +26,35 @@ def getHtml(url):
     page.close()
     return html
 
-
+'''
 def getPaper(name):
+    if name == "Bo An":
+        paper[name] = 20
+        maxPaper = max(maxPaper, paper[name])
+        return paper[name]
+    elif name == "Yi Yang":
+        paper[name] = 25
+        maxPaper = max(maxPaper, paper[name])
+        return paper[name]
+    elif name == "Le Song":
+        paper[name] = 48
+        maxPaper = max(maxPaper, paper[name])
+        return paper[name]
+    elif name == "Ba Zhang":
+        paper[name] = 0
+        maxPaper = max(maxPaper, paper[name])
+        return paper[name]
     global sourceUrl
     global maxPaper
     amount = 0
     for conf in confList:
         url = sourceUrl + name + " venue%3A" + conf + "%3A&h=1000&format=json"
         html = getHtml(url)
-        htmlJson = json.loads(html)
+        htmlJson = {}
+        try:
+            htmlJson = json.loads(html)
+        except ValueError:
+            pass
         count = 0
         try:
             count = int(htmlJson["result"]["hits"]["@total"])
@@ -44,6 +64,7 @@ def getPaper(name):
     paper[name] = amount
     maxPaper = max(maxPaper, amount)
     return amount
+'''
 
 
 def getCitation(name):
@@ -81,21 +102,20 @@ def main():
     for name in names:
         try:
             (cit, cit5, h, h5) = getCitation(name)
-            paperAmount = getPaper(name)
-            print name.strip(), ": ", cit, cit5, h, h5, paperAmount,
-
+            #paperAmount = getPaper(name)
+            print name.strip(), ": ", cit, cit5, h, h5,
         except StopIteration:
             print "** " + name.strip() + " Not found!",
             citation[name] = 0
             pass
         counter += 1
         print "\tNo." + str(counter) + '/' + str(length)
-        if counter == 5:
-            break
+#        if counter == 5:
+#            break
     for name in names:
         try:
-            mark = (1.0 * citation[name] / maxCitation + 1.0 * citation5year[name] / maxCitation5year + 1.0 * hIndex[name] / maxHIndex + 1.0 * hIndex5year[name] / maxHIndex5year + 1.0 * paper[name] / maxPaper) / 5
-            citationOut.write("%s\t%d\t%d\t%d\t%d\t%d\t%lf\n" % (name, citation[name], citation5year[name], hIndex[name], hIndex5year[name], paper[name], mark))
+            mark = (1.0 * citation[name] / maxCitation + 1.0 * citation5year[name] / maxCitation5year + 1.0 * hIndex[name] / maxHIndex + 1.0 * hIndex5year[name] / maxHIndex5year) / 4
+            citationOut.write("%s\t%d\t%d\t%d\t%d\t%d\t%lf\n" % (name, citation[name], citation5year[name], hIndex[name], hIndex5year[name], mark))
         except KeyError:
             citationOut.write("%s\n" % name)
             pass
